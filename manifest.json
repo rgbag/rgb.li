@@ -1,0 +1,14 @@
+{
+  "name": "rgb.li",
+  "short_name": "rgbli",
+  "icons": [{
+    "src": "img/touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }],
+  "lang": "en",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#000",
+  "theme_color": "#000"
+}
